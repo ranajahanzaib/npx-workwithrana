@@ -1,0 +1,31 @@
+{
+  "name": "workwithrana",
+  "version": "0.0.4",
+  "description": "Rana Jahanzaib's engineering profile and selected projects in the terminal",
+  "type": "module",
+  "bin": {
+    "workwithrana": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranajahanzaib/npx-workwithrana.git"
+  },
+  "homepage": "https://workwithrana.com",
+  "bugs": {
+    "url": "https://github.com/ranajahanzaib/npx-workwithrana/issues"
+  },
+  "keywords": [
+    "workwithrana",
+    "portfolio",
+    "engineering",
+    "terminal"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
