@@ -19,7 +19,8 @@ test("prints current profile, projects, and contact links", () => {
     "Ledger-to-Chain Reconciler",
     "Workers Aide",
     "work@withrana.com",
-    "upwork.com/fl/rana",
+    "www.upwork.com/freelancers/~01bbcf6edb91a8df5f",
+    "contra.com/ranajahanzaib",
     "workwithrana.com/work",
   ]) assert.ok(result.stdout.includes(value), `Missing ${value}`);
   assert.doesNotMatch(result.stdout, /ewithrana|npx rana|8 years|20\+ Certifications/);

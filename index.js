@@ -32,7 +32,8 @@ const contacts = [
   ["EMAIL", "work@withrana.com"],
   ["GITHUB", "https://github.com/ranajahanzaib"],
   ["LINKEDIN", "https://linkedin.com/in/workwithrana"],
-  ["UPWORK", "https://upwork.com/fl/rana"],
+  ["UPWORK", "https://www.upwork.com/freelancers/~01bbcf6edb91a8df5f"],
+  ["CONTRA", "http://contra.com/ranajahanzaib"],
 ];
 
 const useColor =
